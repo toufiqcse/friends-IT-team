@@ -18,7 +18,7 @@ const AboutMe = () => {
     useEffect(() => {
         if (id) {
             // const apiUrl = `https://portfolio-express-server-iota.vercel.app/aboutTeam/${id}`;
-            const apiUrl = `http://localhost:3000/api/members/${id}`;
+            const apiUrl = `https://friends-it-team.vercel.app/api/members/${id}`;
             axios
                 .get(apiUrl)
                 .then((response) => {
