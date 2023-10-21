@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "projectTitle": "ToDo Application",
+    "githubUrl": "https://github.com/toufiqcse/daily-todo-app-react-redux",
+    "liveLink": "https://daily-todo-app-react-redux.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/hGqwQ7bX/todo-projects-img.png",
+    "title": ["Next", "Redux"]
+  },
+  {
+    "id": 2,
+    "projectTitle": "Flight Booking",
+    "githubUrl": "https://github.com/toufiqcse/flight-booking-app-react-redux",
+    "liveLink": "https://flight-booking-app-react-redux.vercel.app/",
+    "features": [
+      "It’s a fully tab, and desktop responsive website. It has the best UI experience",
+      "It's the Flight Details Search  Design",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "Flight Details Search project is the better service to you and save your time to collect any types of Flight Details in every times",
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/6qgKkpsC/travel-projects-img.png",
+    "title": ["Next", "Redux"]
+  },
+  {
+    "id": 3,
+    "projectTitle": "Simple Todo App",
+    "githubUrl": "https://github.com/toufiqcse/lws-todo-app",
+    "liveLink": "https://lws-todo-app.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task and filtering section",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/P5ZDFLGz/lws-todo.png",
+    "title": ["Redux"]
+  },
+  {
+    "id": 4,
+    "projectTitle": "Portfolio Website",
+    "githubUrl": "https://github.com/toufiqcse/next-portfolio",
+    "liveLink": "/#",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It'your personal portfolio website",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/GpD1DCyp/portfolio-toufiq.png",
+    "title": ["Next"]
+  },
+  {
+    "id": 5,
+    "projectTitle": "Salary Sheet",
+    "githubUrl": "https://github.com/toufiqcse/salary-sheet-javaScript",
+    "liveLink": "https://salary-sheet-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's your salary chart viewer"
+    ],
+    "description": "It's the Salary Chart For Employee Its Created by the raw JavaScript css3",
+    "element": ["JavaScript", "CSS3"],
+    "project_img": "https://i.postimg.cc/Yt7cC50j/salary-sheet-java-Script.png",
+    "title": ["JavaScript"]
+  },
+  {
+    "id": 6,
+    "projectTitle": "Pin Matcher App",
+    "githubUrl": "https://github.com/toufiqcse/pin-matcher-javaScript",
+    "liveLink": "https://pin-matcher-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Create a pin and check match the pin"
+    ],
+    "description": "It's the Pin Matcher and generator  Its Created by the raw JavaScript css3",
+    "element": ["JavaScript", "css3"],
+    "project_img": "https://i.postimg.cc/tRKhCFHP/pin-matcher-design.png",
+    "title": ["JavaScript"]
+  },
+  {
+    "id": 7,
+    "projectTitle": "Create Fancy Slider",
+    "githubUrl": "https://github.com/toufiqcse/create-slider-javaScript",
+    "liveLink": "https://create-slider-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Search image from DB and select for slider"
+    ],
+    "description": "It's the Fancy Slider app , slider are created from this selected picture. Its Created by the raw JavaScript css3",
+    "element": ["JavaScript"],
+    "project_img": "https://i.postimg.cc/DfrzLGX1/fancy-slider.png",
+    "title": ["React"]
+  },
+  {
+    "id": 8,
+    "projectTitle": "Ema-Jhon Cart",
+    "githubUrl": "https://github.com/toufiqcse/ema-jhon-cart",
+    "liveLink": "https://ema-jhon-cart.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Product add to cart"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "element": ["React", "Tailwind CSS"],
+    "project_img": "",
+    "title": ["React"]
+  },
+  {
+    "id": 9,
+    "projectTitle": "SocialBook Design",
+    "githubUrl": "https://github.com/toufiqcse/social-design-socailBook",
+    "liveLink": "https://social-design-socail-book.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Social site design"
+    ],
+    "description": "It's the socialBook Social Application which same goes to Facebook",
+    "element": ["JavaScript"],
+    "project_img": "https://i.postimg.cc/ncxGGqwx/social-Book-design.png",
+    "title": "JavaScript"
+  },
+  {
+    "id": 10,
+    "projectTitle": "My Tube",
+    "githubUrl": "https://github.com/toufiqcse/my-tube-javaScript",
+    "liveLink": "https://my-tube-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Your tube is only show the design and watch the video"
+    ],
+    "description": "It's the myTube application its look like Youtube",
+    "element": ["JavaScript", "css3"],
+    "project_img": "https://i.postimg.cc/jqnR47nM/my-tube-design.png",
+    "title": ["JavaScript"]
+  },
+  {
+    "id": 11,
+    "projectTitle": "Eccomerce Design",
+    "githubUrl": "https://github.com/toufiqcse/akota-eccomerce-javaScript",
+    "liveLink": "https://akota-eccomerce-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "Product sell, and marketing"
+    ],
+    "description": "It's the E-comerce web App which including many business features",
+    "element": ["JavaScript", "Bootstrap"],
+    "project_img": "https://i.postimg.cc/Wb46ysjY/akota-traders-bootstrap-design.png",
+    "title": ["JavaScript"]
+  },
+  {
+    "id": 12,
+    "projectTitle": "Flex  Design",
+    "githubUrl": "/",
+    "liveLink": "/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's the design view"
+    ],
+    "description": "It's the css3 features flex component design",
+    "element": ["JavaScript", "Bootstrap"],
+    "project_img": "https://i.postimg.cc/2y1y49RG/flex-start-bootstrap-design.png",
+    "title": ["JavaScript", "Next"]
+  },
+  {
+    "id": 13,
+    "projectTitle": "Email Template",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive Email Template as like Klaviyo, Mailchimp and Newsletter Email Template",
+      "It has the best UI/UX experience"
+    ],
+    "description": "It's design with custom code",
+    "element": ["HTML", "CSS"],
+    "project_img": "https://i.postimg.cc/Hn22NnFL/28656859-64dc058017ce1.jpg",
+    "title": ["Email-Template"],
+    "template": [
+      {
+        "id": 1,
+        "templateName": "Car Shop",
+        "title": "NewsLetter",
+        "img": "https://i.postimg.cc/Kz6T5MfT/email-template-1.png"
+      },
+      {
+        "id": 2,
+        "templateName": "Botique",
+        "title": "Beauty",
+        "img": "https://i.postimg.cc/7ZSqCTGc/email-template-2.png"
+      },
+      {
+        "id": 3,
+        "templateName": "Portfolio",
+        "title": "Portfolio",
+        "img": "https://i.postimg.cc/kgMd5hCV/email-template-3.png"
+      },
+      {
+        "id": 4,
+        "templateName": "Welcome",
+        "title": "Letter",
+        "img": ""
+      },
+      {
+        "id": 4,
+        "templateName": "Thanks",
+        "title": "Letter",
+        "img": ""
+      }
+    ]
+  }
+]
