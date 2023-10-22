@@ -21,8 +21,8 @@ import axios from "axios";
 import toast from "react-hot-toast";
 
 const TeamMember = ({}) => {
-  const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [data, setData] = useState([]);
 
   // data fetching function
   const fetchData = async (url) => {

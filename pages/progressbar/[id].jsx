@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import ProgressBar from './progressbar';
 
 
-const Progress = () => {
+const Progress = ({ teamData }) => {
 
     const skills = teamData.WebDetails.skills
     const tools = teamData.WebDetails.tools

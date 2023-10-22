@@ -2,8 +2,8 @@
 import React from 'react';
 
 const ProgressBar = ({ skill }) => {
-    const { name, level } = skill;
-    const formattedName = `${name} ${level}`;
+
+    const formattedName = `${skill.name} ${skill.level}`;
 
     let bgColorClass = '';
 
@@ -22,13 +22,13 @@ const ProgressBar = ({ skill }) => {
                 data-aos-once="false"
 
             >
-                <span className='text-xl ml-1'>{name}</span>
+                <span className='text-xl ml-1'>{skill.name}</span>
                 <div className='  text-white rounded-full bg-gray-300 mb-4 '>
 
                     <div
                         className={` py-[0.5em] rounded-full  relative ${bgColorClass}`}
                         style={{
-                            width: level,
+                            width: skill.level,
                         }}
                     >
                         <div className=' tooltip '>{level}</div>
