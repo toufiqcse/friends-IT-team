@@ -31,7 +31,7 @@ const ProgressbarChart = ({ skill }) => {
                             width: skill.level,
                         }}
                     >
-                        <div className=' tooltip '>{level}</div>
+                        <div className=' tooltip '>{skill.level}</div>
                     </div>
                 </div>
             </div>
