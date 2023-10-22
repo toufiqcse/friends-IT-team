@@ -1,7 +1,7 @@
 // pages/index.js
 
 import React, { useState, useEffect } from 'react';
-import ProgressBar from './progressbar';
+import ProgressBar from './ProgressbarChart';
 
 
 const Progress = ({ teamData }) => {
@@ -34,11 +34,6 @@ const Progress = ({ teamData }) => {
                         </div>
                         <div>
                             <h2 className='text-center text-2xl pb-4'>Tools Skill</h2>
-                            {/* {
-                                tools.map((skill) => (
-                                    <ProgressBar skill={skill} key={skill.id} />
-                                ))
-                            } */}
                         </div>
                     </div>
                 </div>

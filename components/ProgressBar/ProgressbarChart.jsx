@@ -1,7 +1,7 @@
 "use-client"
 import React from 'react';
 
-const ProgressBar = ({ skill }) => {
+const ProgressbarChart = ({ skill }) => {
 
     const formattedName = `${skill.name} ${skill.level}`;
 
@@ -39,4 +39,4 @@ const ProgressBar = ({ skill }) => {
     );
 };
 
-export default ProgressBar;
+export default ProgressbarChart;
