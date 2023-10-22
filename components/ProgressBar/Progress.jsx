@@ -2,14 +2,19 @@
 
 import React, { useState, useEffect } from 'react';
 import ProgressBar from './ProgressbarChart';
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 const Progress = ({ teamData }) => {
 
     const skills = teamData.WebDetails.skills
     const tools = teamData.WebDetails.tools
     const heading = teamData.WebDetails.headingLeft
-    console.log(teamData.WebDetails);
+
+    useEffect(() => {
+        AOS.init();
+    }, [])
+
     return (
         <>
 

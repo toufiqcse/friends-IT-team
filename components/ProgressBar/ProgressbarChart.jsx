@@ -1,9 +1,13 @@
 "use-client"
 import React from 'react';
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 const ProgressbarChart = ({ skill }) => {
 
-    const formattedName = `${skill.name} ${skill.level}`;
+    useEffect(() => {
+        AOS.init();
+    }, [])
+
 
     let bgColorClass = '';
 
@@ -12,6 +16,7 @@ const ProgressbarChart = ({ skill }) => {
     } else {
         bgColorClass = 'bg-gradient-to-r from-green-500 to-blue-500  '; // Default background color
     }
+
 
     return (
         <>
