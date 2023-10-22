@@ -7,7 +7,7 @@ const ProgressbarChart = ({ skill }) => {
 
     let bgColorClass = '';
 
-    if (level >= 80) {
+    if (skill.level >= 80) {
         bgColorClass = 'bg-green-300';
     } else {
         bgColorClass = 'bg-gradient-to-r from-green-500 to-blue-500  '; // Default background color
