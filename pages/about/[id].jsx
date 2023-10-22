@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 import axios from 'axios';
 import Image from 'next/image';
 import Education from '@/components/Educations/Education';
-import Progress from '../progressbar';
+import Progress from '../progressbar/[id]';
 
 
 
