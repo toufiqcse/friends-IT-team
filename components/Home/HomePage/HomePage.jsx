@@ -42,7 +42,7 @@ const HomePage = () => {
                   </span>
                 </h3>
                 <p
-                  className="first-letter:text-3xl first-letter:text-green-500 md:text-xl md:mb-2 mb-1   font-[cursive] leading-4 md:leading-6  md:text-left text-justify text-slate-200">
+                  className="first-letter:text-3xl first-letter:text-green-500 md:text-xl md:mb-2 mb-1   font-[Rubik] leading-4 md:leading-6  md:text-left text-justify text-slate-200">
                   We offer a comprehensive range of services to empower your digital presence. From web development, where we craft user-friendly and responsive websites, to digital marketing strategies tailored to boost your online visibility. We also specialize in Google Analytics,Pixel conversion API. With our expertise, we are here to help you navigate the digital landscape, optimize your web presence, and drive success for your business
                 </p>
               </>

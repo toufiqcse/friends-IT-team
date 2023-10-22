@@ -12,6 +12,7 @@ const Progress = ({ teamData }) => {
     const skills = teamData.WebDetails.skills
     const tools = teamData.WebDetails.tools
     const heading = teamData.WebDetails.headingLeft
+    const headingR = teamData.WebDetails.headingRight
 
     return (
         <>
@@ -36,7 +37,7 @@ const Progress = ({ teamData }) => {
                             }
                         </div>
                         <div>
-                            <h2 className='text-center text-2xl pb-4'>Tools Skill</h2>
+                            <h2 className='text-center text-2xl pb-4'>{headingR}</h2>
                             {
                                 tools.map((skill) => (
                                     <ProgressBar skill={skill} key={skill.id} />

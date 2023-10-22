@@ -72,7 +72,7 @@ const AboutMe = () => {
                                     data-aos-delay="100"
                                     data-aos-duration="1000"
                                     data-aos-once="false"
-                                    className='text-justify px-2 md:px-6 first-letter:text-3xl first-letter:text-green-500 font-[cursive] text-xl text-slate-200'>{teamData.aboutMe}</p>
+                                    className='text-justify px-2 md:px-6 first-letter:text-3xl first-letter:text-green-500 font-[Rubik] text-xl text-slate-200'>{teamData.aboutMe}</p>
                             </div>
                         </div>
                     </div>
