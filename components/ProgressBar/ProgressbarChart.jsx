@@ -1,12 +1,8 @@
 "use-client"
 import React from 'react';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
+
 const ProgressbarChart = ({ skill }) => {
 
-    useEffect(() => {
-        AOS.init();
-    }, [])
 
 
     let bgColorClass = '';
