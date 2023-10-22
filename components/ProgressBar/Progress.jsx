@@ -2,22 +2,23 @@
 
 import React, { useState, useEffect } from 'react';
 import ProgressBar from './ProgressbarChart';
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 const Progress = ({ teamData }) => {
-
+    useEffect(() => {
+        AOS.init();
+    }, [])
     const skills = teamData.WebDetails.skills
     const tools = teamData.WebDetails.tools
     const heading = teamData.WebDetails.headingLeft
-
-
 
     return (
         <>
 
 
 
-            <div className='bg-[#0E1628]   px-[5%]  md:px-[10%] text-white pb-8  mx-auto  border-b border-bottom'>
+            <div className='bg-[#0E1628]   px-[5%]  md:px-[10%] text-white pb-8  mx-auto  border-b border-bottom data-aos'>
                 <h1 className='heading text-design md:text-5xl text-3xl font-black py-6'
                     data-aos="fade-down"
                     data-aos-delay="100"
