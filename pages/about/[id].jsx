@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import axios from 'axios';
 import Image from 'next/image';
 import Education from '@/components/Educations/Education';
+import Progress from '../progressbar';
 
 
 
@@ -19,6 +20,7 @@ const AboutMe = () => {
         if (id) {
             // const apiUrl = `https://portfolio-express-server-iota.vercel.app/aboutTeam/${id}`;
             const apiUrl = `https://friends-it-team.vercel.app/api/members/${id}`;
+            // const apiUrl = `http://localhost:3000/api/members/${id}`;
             axios
                 .get(apiUrl)
                 .then((response) => {
@@ -77,7 +79,7 @@ const AboutMe = () => {
 
             </div>
             <div className='border-b border-bottom'>
-                {/* <Progress teamData={teamData} /> */}
+                <Progress teamData={teamData} />
             </div>
             <div className=" border-b border-bottom">
                 <Education teamData={teamData} />
